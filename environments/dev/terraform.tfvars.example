@@ -1,0 +1,6 @@
+# Copy to terraform.tfvars and adjust
+aws_region    = "ap-south-1"
+project       = "tf-lab"
+environment   = "dev"
+instance_type = "t3.micro"
+owner         = "your-name"
