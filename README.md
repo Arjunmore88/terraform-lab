@@ -1,6 +1,7 @@
 # Terraform AWS Lab
 
 ![Terraform CI](https://github.com/Arjunmore88/terraform-lab/actions/workflows/terraform-ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 A hands-on Infrastructure-as-Code lab that provisions a small, production-style AWS environment with **reusable Terraform modules**, **secure defaults**, and **CI checks with GitHub Actions**.
 
@@ -101,3 +102,7 @@ Uses free-tier-eligible resources (`t3.micro`, no NAT Gateway). Always run `terr
 **Arjun More** — [GitHub @Arjunmore88](https://github.com/Arjunmore88)
 
 Other hands-on labs: [aws-lab](https://github.com/Arjunmore88/aws-lab) · [azure-lab](https://github.com/Arjunmore88/azure-lab) · [docker-lab](https://github.com/Arjunmore88/docker-lab) · [kubernetes-lab](https://github.com/Arjunmore88/kubernetes-lab) · [jenkins-ci-cd](https://github.com/Arjunmore88/jenkins-ci-cd)
+
+## License
+
+[MIT](LICENSE)
